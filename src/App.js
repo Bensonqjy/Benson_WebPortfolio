@@ -24,7 +24,7 @@ function App() {
         <header className="header-nav">
           <h3>Benson Quah</h3>
           <nav ref={navRef}>
-            <NavLink to="/Benson-WebPortfolio" onClick={toggleNavbar}>
+            <NavLink to="/Benson_WebPortfolio" onClick={toggleNavbar}>
               Home
             </NavLink>
             <NavLink to="/EducationJourney" onClick={toggleNavbar}>
