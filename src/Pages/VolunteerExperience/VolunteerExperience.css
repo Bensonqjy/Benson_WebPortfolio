@@ -1,0 +1,35 @@
+/* Education Container */
+.education-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+  gap: 20px;
+}
+
+/* Experience Card */
+.experience-card {
+  width: 100%; /* Ensure cards take full width */
+  max-width: 400px; /* Adjust maximum width as needed */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+/* Experience Title */
+.experience-title {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* Duration */
+.duration {
+  margin-bottom: 10px;
+  font-style: italic;
+  color: #777;
+}
+
+/* Responsibilities */
+.responsibilities {
+  color: #555;
+}

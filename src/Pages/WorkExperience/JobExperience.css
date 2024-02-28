@@ -1,0 +1,63 @@
+.page-overlay {
+  background-color: #f8f8f8;
+  /* padding: 20px; */
+}
+
+.job-experience-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #29335c;
+}
+
+.experience-item {
+  margin-bottom: 30px;
+}
+
+.experience-card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 12px;
+}
+
+.experience-title {
+  color: #29335c;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.experience-details h3 {
+  color: #29335c;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.company {
+  color: #555;
+}
+
+.duration {
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.responsibilities {
+  margin-top: 10px;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.responsibilities li {
+  margin-bottom: 5px;
+}
+
+@media (max-width: 768px) {
+  .experience-item {
+    padding: 0 20px;
+  }
+}

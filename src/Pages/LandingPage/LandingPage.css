@@ -1,0 +1,42 @@
+.page-overlay {
+  padding: 20px;
+}
+
+.page-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 20px;
+}
+
+.skills-section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.soft-skills {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1 1 300px; /* Adjust card width as needed */
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.intro {
+  font-size: 18px;
+  line-height: 1.6;
+}
