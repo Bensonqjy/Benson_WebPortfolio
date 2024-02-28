@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Benson-WebPortfolio/static/css/main.60cc0b01.css",
+    "main.js": "/Benson-WebPortfolio/static/js/main.5b9ffcb1.js",
+    "static/js/453.6f4065ad.chunk.js": "/Benson-WebPortfolio/static/js/453.6f4065ad.chunk.js",
+    "static/media/NUS_BES.png": "/Benson-WebPortfolio/static/media/NUS_BES.2a9d0b4a0fd7a74103e2.png",
+    "static/media/CGH_ss.png": "/Benson-WebPortfolio/static/media/CGH_ss.f063e1f60112c921daaa.png",
+    "static/media/SleepApnea.png": "/Benson-WebPortfolio/static/media/SleepApnea.88b0fe5530006def47e6.png",
+    "static/media/PFile.png": "/Benson-WebPortfolio/static/media/PFile.3e86b794a75e2d046c5c.png",
+    "static/media/TP_MP_Commendation_Award.jpg": "/Benson-WebPortfolio/static/media/TP_MP_Commendation_Award.403697904aefe4e44c8c.jpg",
+    "static/media/ARTSIC.png": "/Benson-WebPortfolio/static/media/ARTSIC.12b363c332644827d28c.png",
+    "static/media/TikTok.png": "/Benson-WebPortfolio/static/media/TikTok.3c99471cee9ec977c47b.png",
+    "index.html": "/Benson-WebPortfolio/index.html",
+    "main.60cc0b01.css.map": "/Benson-WebPortfolio/static/css/main.60cc0b01.css.map",
+    "main.5b9ffcb1.js.map": "/Benson-WebPortfolio/static/js/main.5b9ffcb1.js.map",
+    "453.6f4065ad.chunk.js.map": "/Benson-WebPortfolio/static/js/453.6f4065ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60cc0b01.css",
+    "static/js/main.5b9ffcb1.js"
+  ]
+}
