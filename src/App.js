@@ -24,7 +24,7 @@ function App() {
         <header className="header-nav">
           <h3>Benson Quah</h3>
           <nav ref={navRef}>
-            <NavLink to="/" onClick={toggleNavbar}>
+            <NavLink to="/Benson-WebPortfolio" onClick={toggleNavbar}>
               Home
             </NavLink>
             <NavLink to="/EducationJourney" onClick={toggleNavbar}>
@@ -71,7 +71,7 @@ function NavLink({ to, onClick, children }) {
 function AppRoutes() {
   return (
     <Routes>
-      <Route path="/" element={<AboutPage />} />
+      <Route path="/Benson-WebPortfolio" element={<AboutPage />} />
       <Route path="/EducationJourney" element={<EducationPage />} />
       <Route path="/WorkExperience" element={<JobExperience />} />
       <Route path="/Projects" element={<ProjectPage />} />
