@@ -24,25 +24,40 @@ function App() {
         <header className="header-nav">
           <h3>Benson Quah</h3>
           <nav ref={navRef}>
-            <NavLink to="/Benson_WebPortfolio" onClick={toggleNavbar}>
+            <NavLink
+              to="/Benson_WebPortfolio/LandingPage"
+              onClick={toggleNavbar}
+            >
               Home
             </NavLink>
-            <NavLink to="/EducationJourney" onClick={toggleNavbar}>
+            <NavLink
+              to="/Benson_WebPortfolio/EducationJourney"
+              onClick={toggleNavbar}
+            >
               Education
             </NavLink>
-            <NavLink to="/WorkExperience" onClick={toggleNavbar}>
+            <NavLink
+              to="/Benson_WebPortfolio/WorkExperience"
+              onClick={toggleNavbar}
+            >
               Work Experience
             </NavLink>
-            <NavLink to="/Projects" onClick={toggleNavbar}>
+            <NavLink to="/Benson_WebPortfolio/Projects" onClick={toggleNavbar}>
               Projects
             </NavLink>
-            <NavLink to="/VolunteerExperience" onClick={toggleNavbar}>
+            <NavLink
+              to="/Benson_WebPortfolio/VolunteerExperience"
+              onClick={toggleNavbar}
+            >
               Volunteer Experience
             </NavLink>
-            <NavLink to="/AwardsReceived" onClick={toggleNavbar}>
+            <NavLink
+              to="/Benson_WebPortfolio/AwardsReceived"
+              onClick={toggleNavbar}
+            >
               Awards
             </NavLink>
-            <NavLink to="/ContactMe" onClick={toggleNavbar}>
+            <NavLink to="/Benson_WebPortfolio/ContactMe" onClick={toggleNavbar}>
               Connect with Me
             </NavLink>
             <button className="nav-btn nav-close-btn" onClick={toggleNavbar}>
